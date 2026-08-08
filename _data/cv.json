@@ -1,152 +1,99 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zohaib Malik",
+    "label": "Software Engineering Student & Full-Stack / ML Engineer",
+    "email": "zohaibkhann745@gmail.com",
+    "phone": "+92-347-0294562",
+    "website": "https://zohaibkhan745.github.io",
+    "summary": "Third-year Software Engineering student at GIKI with hands-on experience building and shipping full-stack products. Ranked 13th nationally at ICPC Asia Regional 2025. Comfortable across the stack — from REST APIs (FastAPI, Node.js) to React frontends and Machine Learning models.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Topi",
+      "countryCode": "PK",
+      "region": "Khyber Pakhtunkhwa"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "zohaibkhan745",
+        "url": "https://github.com/zohaibkhan745"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zohaib-malik1",
+        "url": "https://linkedin.com/in/zohaib-malik1"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "The BookClub (GIKI Student Initiative)",
+      "position": "Founder & Lead Software Engineer",
+      "website": "",
+      "startDate": "2025-11",
+      "endDate": "Present",
+      "summary": "Built and deployed a full-stack P2P textbook exchange platform serving 500+ GIKI students, handling hundreds of weekly transactions. Architected backend REST APIs using FastAPI (Python) and built responsive frontend with React + Vite."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)",
+      "area": "Software Engineering",
+      "studyType": "BS",
+      "startDate": "2023-09",
+      "endDate": "2027-06",
+      "gpa": "3.3/4.0",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "Database Systems",
+        "Artificial Intelligence",
+        "DevOps",
+        "Discrete Mathematics",
+        "Web Engineering",
+        "Design and Analysis of Algorithms",
+        "Software Requirement Engineering",
+        "Computer Networks"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Programming Languages",
+      "keywords": ["Python", "C/C++", "JavaScript", "SQL", "HTML", "CSS"]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Frameworks & Libraries",
+      "keywords": ["FastAPI", "React", "Node.js", "Django", "PyTorch", "Scikit-Learn", "OpenCV", "REST APIs"]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Tools & Databases",
+      "keywords": ["Git", "GitHub", "Docker", "Linux", "PostgreSQL", "SQLite", "VS Code", "Jira"]
     }
   ],
-  "presentations": [
+  "awards": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "ICPC Asia Regional 2025 (Ranked 13th in Pakistan)",
+      "date": "2025",
+      "awarder": "ICPC",
+      "summary": "Solved complex algorithmic problems under strict time constraints in Pakistan's premier competitive programming contest."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "title": "GIKI Merit Scholarship (2023–Present)",
+      "date": "2023",
+      "awarder": "GIKI",
+      "summary": "Fully funded scholarship (PKR 4M+) awarded on entrance merit; maintained through academic excellence."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "title": "Dean’s Honor List (Fall 2024)",
+      "date": "2024",
+      "awarder": "GIKI",
+      "summary": "Recognized for top-tier academic performance."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "1st Place, Intra-Faculty Chess Competition",
+      "date": "2025",
+      "awarder": "GIKI",
+      "summary": "Won among 200+ participants."
     }
   ]
 }
