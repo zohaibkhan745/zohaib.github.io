@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Zohaib Malik",
-    "label": "Software Engineering Student & Full-Stack / ML Engineer",
+    "label": "AI & NLP Research Assistant & Software Engineering Student",
     "email": "zohaibkhann745@gmail.com",
     "phone": "+92-347-0294562",
-    "website": "https://zohaibkhan745.github.io",
-    "summary": "Third-year Software Engineering student at GIKI with hands-on experience building and shipping full-stack products. Ranked 13th nationally at ICPC Asia Regional 2025. Comfortable across the stack — from REST APIs (FastAPI, Node.js) to React frontends and Machine Learning models.",
+    "website": "https://zohaibkhan745.github.io/zohaib.github.io",
+    "summary": "Final-year Software Engineering student at GIKI with hands-on research experience in low-resource NLP and LLM fine-tuning, including a supervised research project and a co-authored IEEE conference paper. Ranked 13th nationally at ICPC Asia Regional 2025. Proficient with PyTorch, QLoRA/LoRA fine-tuning, and empirical evaluation pipelines.",
     "location": {
       "city": "Topi",
       "countryCode": "PK",
@@ -26,12 +26,26 @@
   },
   "work": [
     {
+      "company": "AI Research Lab, GIKI",
+      "position": "AI Research Assistant (Supervised by Dr. Khurram Jadoon)",
+      "startDate": "2026-06",
+      "endDate": "2026-07",
+      "summary": "Fine-tuned Qehwa LLM (Qwen2.5-7B) on ~74,966 Afghan Pashto instruction pairs using QLoRA, LoRA, Unsloth, and PyTorch. Co-authored an IEEE conference paper on Pashto LLM fine-tuning methodology."
+    },
+    {
       "company": "The BookClub (GIKI Student Initiative)",
       "position": "Founder & Lead Software Engineer",
-      "website": "",
       "startDate": "2025-11",
       "endDate": "Present",
-      "summary": "Built and deployed a full-stack P2P textbook exchange platform serving 500+ GIKI students, handling hundreds of weekly transactions. Architected backend REST APIs using FastAPI (Python) and built responsive frontend with React + Vite."
+      "summary": "Architected and deployed full-stack P2P textbook exchange platform serving 500+ GIKI students, processing 200+ weekly transactions with FastAPI, React + Vite, Docker, and PostgreSQL."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Pashto LLM: Fine-Tuning Methodology and Experimental Results for Low-Resource Dialect Adaptation",
+      "publisher": "Submitted to IEEE Conference",
+      "releaseDate": "2026",
+      "summary": "Describing the dataset curation, dialect-mixing mitigation, and QLoRA fine-tuning pipeline for Afghan Pashto LLM domain adaptation."
     }
   ],
   "education": [
@@ -41,16 +55,14 @@
       "studyType": "BS",
       "startDate": "2023-09",
       "endDate": "2027-06",
-      "gpa": "3.3/4.0",
+      "gpa": "3.34/4.00",
       "courses": [
-        "Data Structures & Algorithms",
-        "Object-Oriented Programming",
-        "Database Systems",
         "Artificial Intelligence",
-        "DevOps",
-        "Discrete Mathematics",
+        "Data Structures & Algorithms",
+        "Database Systems",
+        "OOP",
         "Web Engineering",
-        "Design and Analysis of Algorithms",
+        "DevOps",
         "Software Requirement Engineering",
         "Computer Networks"
       ]
@@ -58,16 +70,16 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "keywords": ["Python", "C/C++", "JavaScript", "SQL", "HTML", "CSS"]
+      "name": "ML & Research",
+      "keywords": ["PyTorch", "QLoRA", "LoRA", "Unsloth", "Scikit-Learn", "Fine-Tuning", "SFT Pipelines", "Empirical Evaluation", "Transformers"]
     },
     {
-      "name": "Frameworks & Libraries",
-      "keywords": ["FastAPI", "React", "Node.js", "Django", "PyTorch", "Scikit-Learn", "OpenCV", "REST APIs"]
+      "name": "Languages & Frameworks",
+      "keywords": ["Python", "C/C++", "JavaScript", "SQL", "HTML/CSS", "FastAPI", "React", "Angular", "Node.js", "Django"]
     },
     {
-      "name": "Tools & Databases",
-      "keywords": ["Git", "GitHub", "Docker", "Linux", "PostgreSQL", "SQLite", "VS Code", "Jira"]
+      "name": "Tools & Infrastructure",
+      "keywords": ["Git", "GitHub", "Docker", "Linux", "PostgreSQL", "MongoDB", "VS Code", "Jira"]
     }
   ],
   "awards": [
@@ -75,25 +87,23 @@
       "title": "ICPC Asia Regional 2025 (Ranked 13th in Pakistan)",
       "date": "2025",
       "awarder": "ICPC",
-      "summary": "Solved complex algorithmic problems under strict time constraints in Pakistan's premier competitive programming contest."
+      "summary": "Solved complex algorithmic problems under strict time constraints in premier national competitive programming contest."
     },
     {
       "title": "GIKI Merit Scholarship (2023–Present)",
       "date": "2023",
       "awarder": "GIKI",
-      "summary": "Fully funded scholarship (PKR 4M+) awarded on entrance merit; maintained through academic excellence."
+      "summary": "Fully funded scholarship (PKR 4M+) awarded on entrance merit."
     },
     {
       "title": "Dean’s Honor List (Fall 2024)",
       "date": "2024",
-      "awarder": "GIKI",
-      "summary": "Recognized for top-tier academic performance."
+      "awarder": "GIKI"
     },
     {
       "title": "1st Place, Intra-Faculty Chess Competition",
       "date": "2025",
-      "awarder": "GIKI",
-      "summary": "Won among 200+ participants."
+      "awarder": "GIKI"
     }
   ]
 }
