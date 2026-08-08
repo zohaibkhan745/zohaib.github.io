@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="margin-bottom: 25px; background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 5px solid #2b6cb0;">
-  <h3 style="margin-top: 0;">📄 Download Formal Research Resume</h3>
+  <h3 style="margin-top: 0;">Download Formal Research Resume</h3>
   <p>You can view or download the complete PDF version of my Curriculum Vitae:</p>
   <a href="/files/Zohaib_Malik_CV.pdf" target="_blank" class="btn btn--primary" style="font-weight: bold; padding: 8px 18px; text-decoration: none;">Download Zohaib_Malik_CV.pdf</a>
 </div>

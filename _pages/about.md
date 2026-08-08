@@ -15,7 +15,7 @@ I was ranked **13th nationally in Pakistan at ICPC Asia Regional 2025** and have
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 * **AI Research Assistant** | *AI Research Lab, GIKI* *(Supervised by Dr. Khurram Jadoon)* <span style="float:right;">*Jun 2026 – Jul 2026*</span>
   * **Low-Resource Pashto LLM Fine-Tuning**: Collected and curated large-scale Afghan Pashto text corpora (*Bakhtar*, *Khaama*, *RTA*, *Shamshad*, *Watan HD*, *Ariana*) using custom Python scrapers with bot evasion and deduplication, followed by instruction-formatting for Supervised Fine-Tuning (SFT).
@@ -33,7 +33,7 @@ I was ranked **13th nationally in Pakistan at ICPC Asia Regional 2025** and have
 
 ---
 
-## 📝 Publications & Preprints
+## Publications & Preprints
 
 * **Pashto LLM: Fine-Tuning Methodology and Experimental Results for Low-Resource Dialect Adaptation**  
   *Zohaib Malik*, Dr. Khurram Jadoon, et al.  
@@ -41,7 +41,7 @@ I was ranked **13th nationally in Pakistan at ICPC Asia Regional 2025** and have
 
 ---
 
-## 🏆 Honors & Awards
+## Honors & Awards
 
 * **ICPC Asia Regional (2025)**: Ranked **13th in Pakistan** in the nation's premier competitive programming contest — solved complex algorithmic problems under strict time constraints.
 * **GIKI Merit Scholarship (2023–Present)**: Fully funded scholarship (**PKR 4M+**) awarded on entrance merit and maintained through academic excellence.
@@ -50,7 +50,7 @@ I was ranked **13th nationally in Pakistan at ICPC Asia Regional 2025** and have
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 * **ML & Research**: PyTorch, QLoRA, LoRA, Unsloth, Scikit-Learn, Fine-Tuning & SFT Pipelines, Empirical Evaluation, Transformers, HuggingFace
 * **Programming Languages**: Python, C/C++, JavaScript, SQL, HTML, CSS
@@ -59,7 +59,7 @@ I was ranked **13th nationally in Pakistan at ICPC Asia Regional 2025** and have
 
 ---
 
-## 💻 Engineering Experience & Selected Projects
+## Engineering Experience & Projects
 
 * **The BookClub (GIKI Student Initiative)** | *Founder & Lead Software Engineer* <span style="float:right;">*Nov 2025 – Present*</span>
   * Architected and deployed a full-stack P2P textbook exchange platform serving **500+ GIKI students**, processing 200+ weekly transactions with zero downtime.
@@ -73,7 +73,7 @@ I was ranked **13th nationally in Pakistan at ICPC Asia Regional 2025** and have
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)** — *Topi, Pakistan*
   * **BS in Software Engineering** | **CGPA: 3.34 / 4.00** | *Sep 2023 – Jun 2027*
